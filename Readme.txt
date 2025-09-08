@@ -6,7 +6,7 @@ File Read and Edit Python   - Python utilities for file I/O
 Java OOP                    - Java programs demonstrating OOP concepts and Data Structures
 Node Chain                  - Linked node/chain data structure examples
 Recursion_Binary_Tree       - Recursive binary tree implementations
-Simple Sudoku               - Sudoku solver or generator (logic-based)
+Simple Sudoku               - Sudoku solver 
 Algorithms                  -Recursion, Divide-and-Conquer, Backtracking, Recurrence Relations, Dynamic Programming, Tree Traversal, Geometry Partitioning 
 
 
