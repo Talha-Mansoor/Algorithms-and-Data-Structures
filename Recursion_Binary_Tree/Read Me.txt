@@ -1,0 +1,20 @@
+This project covers trees, recursion, and object-oriented programming (OOP).
+It includes:
+
+Git/Version Control: Proper commit usage and logging.
+
+Binary Trees: Substitution, copy, in-order traversal, counting values, expression trees, and ordered trees.
+
+OOP & Inheritance: Refactoring Stack and Queue classes using a shared Container superclass.
+
+Files
+
+a5q1.txt: Git log (with meaningful commits).
+
+a5q2.py / a5q2_testing.py: Recursive tree functions + tests.
+
+a5q3.py / a5q3_testing.py: Expression tree + tests.
+
+a5q4.py / a5q4_testing.py: Ordered tree check + tests.
+
+a5q5_Container.py, a5q5_Stack.py, a5q5_Queue.py: OOP implementation with inheritance.
